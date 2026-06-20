@@ -1,0 +1,195 @@
+{
+  "version": "1.0.0",
+  "updated": "2026-06-20",
+  "themes": [
+    {
+      "slug": "dawn",
+      "name": "Dawn",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["dawn", "global\\.js", "predictive-search\\.js", "section-renderer\\.js"],
+      "css_classes": ["facets__form", "card--card", "header__menu-item", "deferred-media__poster"],
+      "fingerprint_strings": ["Dawn", "schema_name\":\"Dawn", "theme-store-id\":\"887"]
+    },
+    {
+      "slug": "sense",
+      "name": "Sense",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["sense", "quick-add\\.js", "media-gallery\\.js"],
+      "css_classes": ["product-grid--sense", "sense-card", "drawer__inner"],
+      "fingerprint_strings": ["Sense", "schema_name\":\"Sense"]
+    },
+    {
+      "slug": "refresh",
+      "name": "Refresh",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["refresh", "marquee\\.js"],
+      "css_classes": ["refresh-marquee", "hero--refresh"],
+      "fingerprint_strings": ["Refresh", "schema_name\":\"Refresh"]
+    },
+    {
+      "slug": "craft",
+      "name": "Craft",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["craft", "bulk-order-list\\.js"],
+      "css_classes": ["craft-hero", "craft-collection-grid"],
+      "fingerprint_strings": ["Craft", "schema_name\":\"Craft"]
+    },
+    {
+      "slug": "studio",
+      "name": "Studio",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["studio", "lookbook\\.js"],
+      "css_classes": ["studio-lookbook", "studio-grid"],
+      "fingerprint_strings": ["Studio", "schema_name\":\"Studio"]
+    },
+    {
+      "slug": "taste",
+      "name": "Taste",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["taste", "recipe-card\\.js"],
+      "css_classes": ["taste-recipe-card", "taste-menu"],
+      "fingerprint_strings": ["Taste", "schema_name\":\"Taste"]
+    },
+    {
+      "slug": "ride",
+      "name": "Ride",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["ride", "size-chart\\.js"],
+      "css_classes": ["ride-hero", "ride-size-chart"],
+      "fingerprint_strings": ["Ride", "schema_name\":\"Ride"]
+    },
+    {
+      "slug": "origin",
+      "name": "Origin",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["origin", "story-section\\.js"],
+      "css_classes": ["origin-story", "origin-collection"],
+      "fingerprint_strings": ["Origin", "schema_name\":\"Origin"]
+    },
+    {
+      "slug": "prestige",
+      "name": "Prestige",
+      "vendor": "Pixel Union / Maestrooo",
+      "type": "paid",
+      "asset_patterns": ["prestige", "quick-view-popup\\.js"],
+      "css_classes": ["prestige-product-block", "luxe-grid"],
+      "fingerprint_strings": ["Prestige", "schema_name\":\"Prestige"]
+    },
+    {
+      "slug": "impulse",
+      "name": "Impulse",
+      "vendor": "Archetype Themes",
+      "type": "paid",
+      "asset_patterns": ["impulse", "currency-converter\\.js"],
+      "css_classes": ["impulse-slideshow", "impulse-quick-shop"],
+      "fingerprint_strings": ["Impulse", "schema_name\":\"Impulse"]
+    },
+    {
+      "slug": "turbo",
+      "name": "Turbo",
+      "vendor": "Out of the Sandbox",
+      "type": "paid",
+      "asset_patterns": ["turbo", "ajaxify\\.js", "oos-"],
+      "css_classes": ["turbo-mega-menu", "oos-product-card"],
+      "fingerprint_strings": ["Turbo", "schema_name\":\"Turbo", "Out of the Sandbox"]
+    },
+    {
+      "slug": "flex",
+      "name": "Flex",
+      "vendor": "Out of the Sandbox",
+      "type": "paid",
+      "asset_patterns": ["flex", "oos-flex"],
+      "css_classes": ["flex-section-builder", "oos-flex-grid"],
+      "fingerprint_strings": ["Flex", "schema_name\":\"Flex", "Out of the Sandbox"]
+    },
+    {
+      "slug": "motion",
+      "name": "Motion",
+      "vendor": "Out of the Sandbox",
+      "type": "paid",
+      "asset_patterns": ["motion", "oos-motion"],
+      "css_classes": ["motion-video-hero", "oos-motion-grid"],
+      "fingerprint_strings": ["Motion", "schema_name\":\"Motion", "Out of the Sandbox"]
+    },
+    {
+      "slug": "warehouse",
+      "name": "Warehouse",
+      "vendor": "Pixel Union",
+      "type": "paid",
+      "asset_patterns": ["warehouse", "bulk-discount\\.js"],
+      "css_classes": ["warehouse-grid", "warehouse-filter-bar"],
+      "fingerprint_strings": ["Warehouse", "schema_name\":\"Warehouse"]
+    },
+    {
+      "slug": "empire",
+      "name": "Empire",
+      "vendor": "Pixel Union",
+      "type": "paid",
+      "asset_patterns": ["empire", "lookbook-grid\\.js"],
+      "css_classes": ["empire-lookbook", "empire-product-grid"],
+      "fingerprint_strings": ["Empire", "schema_name\":\"Empire"]
+    },
+    {
+      "slug": "expanse",
+      "name": "Expanse",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["expanse", "split-hero\\.js"],
+      "css_classes": ["expanse-split-hero", "expanse-grid"],
+      "fingerprint_strings": ["Expanse", "schema_name\":\"Expanse"]
+    },
+    {
+      "slug": "broadcast",
+      "name": "Broadcast",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["broadcast", "video-section\\.js"],
+      "css_classes": ["broadcast-video", "broadcast-grid"],
+      "fingerprint_strings": ["Broadcast", "schema_name\":\"Broadcast"]
+    },
+    {
+      "slug": "symmetry",
+      "name": "Symmetry",
+      "vendor": "Invisible Themes",
+      "type": "paid",
+      "asset_patterns": ["symmetry", "sym-"],
+      "css_classes": ["symmetry-grid", "sym-product-card"],
+      "fingerprint_strings": ["Symmetry", "schema_name\":\"Symmetry"]
+    },
+    {
+      "slug": "pipeline",
+      "name": "Pipeline",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["pipeline", "filter-collection\\.js"],
+      "css_classes": ["pipeline-grid", "pipeline-filter"],
+      "fingerprint_strings": ["Pipeline", "schema_name\":\"Pipeline"]
+    },
+    {
+      "slug": "focal",
+      "name": "Focal",
+      "vendor": "Shopify",
+      "type": "free",
+      "asset_patterns": ["focal", "image-focus\\.js"],
+      "css_classes": ["focal-hero", "focal-image-grid"],
+      "fingerprint_strings": ["Focal", "schema_name\":\"Focal"]
+    },
+    {
+      "slug": "impact",
+      "name": "Impact",
+      "vendor": "Maestrooo",
+      "type": "paid",
+      "asset_patterns": ["impact", "mstr-"],
+      "css_classes": ["impact-hero", "mstr-product-grid"],
+      "fingerprint_strings": ["Impact", "schema_name\":\"Impact"]
+    }
+  ]
+}
